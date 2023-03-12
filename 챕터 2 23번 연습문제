@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+      <head>
+        <title>채정의 취미</title>
+        <meta charset="UTF-8">
+        <meta authors="채정"
+      </head>
+      <body>
+        <hr/> <h2>채정의 취미생할</h2> <hr>
+        <p>1.<em>축구</em> <strong>프리미어리그</strong>보는 것을 좋아한다</p>
+        <p>2.<sub>농구 NBA</sub>보는 것을 좋아한다</p>
+        <p>3.<mark>온라인 게임</mark> 하는 것을 <em>좋아한다.</em> <br>
+        <mark>1.피파온라인 4</mark> <small>2.롤</small> <pre> 롤 은 평 소 에 는 잘 안 할 때 가 많 음</pre><br> </p> 
+     </body>
+</html>
