@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>웹 프로그래밍 소개</title>
+    <메타 문자셋="UTF-8">
+        <meta authors="채정" </head>
+
+<body>
+   <h3>취미와 관련된 유튜브 동영상 삽입</h3>"
+<embed width="900" height="=900" src="https://www.youtube.com/embed/xAV9xcsR7ks" title="일광욕 좋아하는 재롱이" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></embed>
+</body>
+
+</html>
