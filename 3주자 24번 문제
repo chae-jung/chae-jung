@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head><title><source>오디오/비디오 삽입</title></head>
+    <body>
+        <h3>고양이의 하루</h3>
+        <audio controls src="meo-keu-se.mp3" loop preload="auto"></audio>
+    </body>
+    <body>
+<ol>야옹야옹 귀여운 고양이의 하루를 살펴보아요
+ 깜찍한 우리의 친구 LUCKY는 오늘 하루 어떻게 지냈을까요?
+    </ol>
+    </body>
+    <body>
+        <video width="360" height="240" src="고양이가 귀여운 영상.mp4(1)" controls preload="metadata">
+        비디오를 재생할 수 없습니다.
+        </video>
+    </body>
+</html>
