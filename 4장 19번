@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+      <head>
+        <style type="text/css">
+        h3{font-style:italic;}
+        p{font-size:10pt; font-weight:bold}
+        strong{font-style:intalic; text-decoration:underline}
+        </style>
+        <title>채정의 취미</title>
+        <meta charset="UTF-8">
+        <meta authors="채정"
+      </head>
+      <body>
+        <h3> 채정의 취미로 이동 </h3>
+        <P> 분야를 클릭하면 <strong>해당 링크로 연결됩니다<strong> </br>
+        또한 <strong>분야위에 마우스를 올리면 더 자세한 정보</strong>를 볼 수 있습니다</P>
+        <ul>
+            <li> <a href="" title="English premier league로 영국에서 1840년부터 시작된 축구 리그이다역사가 오래되었으면 전세계에 많은 영향력을 끼치고있다">축구 </a></li>
+            <li><a href="https://fifaonline4.nexon.com/main/index">피파온라인4</a></li>
+            <li>농구</li>
+            <li>배구</li>
+        </ul>
+      </body>
