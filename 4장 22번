@@ -1,0 +1,46 @@
+<html>
+    <head>
+        <style type="text/css">
+        #books {table-layout: fixed;text-align: center; font-size: large; font-family:fantasy}
+        #books caption {font-size: 30pt; font-weight: bold; margin:auto;}
+        thead{background-color:rgb(173, 230, 182)}
+        tbody{background-color: blueviolet;}
+        </style>
+        <title>연습문제</title>
+        <meta charset="UTF-8">
+        <meta authors="채정">
+    </head>
+<body>
+    <table border="1"  id="books">
+    <caption>채정 1학기 시간표</caption>
+    <thead>
+        <tr>
+            <th>교시</th> <th>월</th> <th>화</th> <th>수</th> <th>목</th> <th>금</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+           <td>1</td> <td rowspan="2">웹 프로그래밍</td> <td></td> <td rowspan="2">인공지능개론</td> <td rowspan="2">데이터사이언스 기초</td> <td rowspan="2">웹 프로그래밍</td>
+        </tr>
+        <tr>
+             <td>2</td> <td>인공지능개론</td> 
+        </tr>
+        <tr>
+            <td>3</td> <td></td> <td></td><td rowspan="2">수학의 세계</td> <td></td> <td></td>
+        </tr>
+        <tr>
+            <td>4</td> <td></td> <td></td> <td>논리수학</td> <td></td>
+        </tr>
+        <tr>
+            <td>5</td> <td></td> <td>인제 새내기 세미나</td> <td rowspan="2">논리수학</td> <td></td> <td></td>
+        </tr>
+        <tr>
+            <td>6</td> <td rowspan="2">빅데이터 기초</td> <td></td> <td></td> <td></td>
+        </tr>
+        <tr>
+            <td>7</td> <td></td> <td></td> <td></td> <td></td>
+        </tr>
+    </tbody>
+<body>
+</table>
+</html>
