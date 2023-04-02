@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style type="text/css">
+           #title:hover{border:thick double blue; padding:4px; background-color:rgb(255, 0, 60); font-size:xx-large; transition:border 4s, background-color 8s;}
+           h3{position:relative; left:10%; width:60% ; padding:5px; border-style:double}
+           #w3c_float{float:right; padding:5px}
+           #w3c_float:hover{border:thin solid rgb(0, 255, 183); width:108px; height:132px; transition: 4s;}
+        </style>   
+    </head>
+    <body>
+        <h3> <span id="title">채정의 취미</span></h3>
+        <img src="horse jpg 2.jpg" id="w3c_float"  width="40" height="40" >
+    <p>
+        <strong><upper>1. EPL 축구 보기 <br>
+        2. 축구 게임하기 <br>
+        3. 말 사진 보기 </strong></upper>
+    </p>
+    </body>
+
+
+
+</html>
