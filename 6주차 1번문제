@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<head>
+    <title>form-요소 회원가입</title>
+    <meta charset="UTF-8">
+    <meta authors="채정">
+</head>
+<html>
+   <body>
+       <h3>회원가입</h3>
+       <form method="post" action="form_app.js">
+        이메일:&nbsp;<input type="text" name="id"> <br>
+        비밀번호:<input type="password" name="pwd" placeholder="-뺴고 입력하세요"><br>
+        <input type="submit" value="확인"/>
+        <input type="reset" value="취소"/>
+
+       </form>
+        
+   </body>
+</html>
