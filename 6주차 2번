@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<head>
+    <title>form-요소 수강과목조사</title>
+    <meta charset="UTF-8">
+    <meta authors="채정">
+</head>
+<html>
+   <body>
+       <h3>수강과목조사</h3>
+       <form method="post" action="form_app.js">
+        이름:&nbsp;<input type="text" name="id"> <br>
+         학과: <input type="password" name="pwd" placeholder="-뺴고 입력하세요"><br>
+        <p>
+           학년:<br>
+           <input type="checkbox"  name="books" value="1학년"/>1학년 
+           <input type="checkbox"  name="books" value="2학년"/>2학년 
+           <input type="checkbox"  name="books" value="3학년"/>3학년 
+           <input type="checkbox"  name="books" value="4학년"/>4학년 
+           수강과목:<br>
+           <input type="checkbox"  name="books" value="it기술의 이해"/>IT기술의이해
+           <input type="checkbox"  name="books" value="웹프로그래밍기초"/>웹프로그래밍기초
+           <input type="checkbox"  name="books" value="ui/ux설계"/>UI/UX설계
+        </p>
+        <input type="submit" value="확인"/>
+        <input type="reset" value="취소"/>
+
+       </form>
+        
+   </body>
+</html>
