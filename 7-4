@@ -5,17 +5,17 @@
     <title>웹 프로그래밍 소개</title>
 </head>
 <body>
-    <div class="head"> 국내 도서</div>
+    <div class="head"> 국내 도서와 해외번역도서</div>
     <figure>
         <table><tr>
-       <td><img src="horse jpg 2.jpg"/></td>
-       <td>  말 농업기술길잡이 개정3판 가격 21000원 기타:말에 대한 다양한 사육방법을 알수잇음</td>
+       <td><img src="1.jpg"/></td>
+       <td>  고양이 기술길잡이 개정3판 가격 21000원 기타:고양이에 대한 다양한 사육방법을 알수잇음</td>
        </tr></table>
     </figure>
     <figure>
         <table><tr>
-       <td><img src="w3c jpg 1.png"/></li></td>
-       <td> 웹표준 교과서 XHTML과 CSS로 하는 '바른' 웹디자인 가격 33000</tr>
+       <td><img src="2.jpg"/></li></td>
+       <td>고양이 교과서 사육과 양육으로 하는 디자인 가격 33000</tr>
        </tr></table>
     </figure> 
     </ul>
