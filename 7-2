@@ -6,9 +6,9 @@
 <body>
     <div class="head"> 국내 도서</div>
     <ul>
-        <li><img src="horse jpg 2.jpg" title="말 농업기술길잡이 개정3판 가격 21000원 기타:말에 대한 다양한 사육방법을 알수잇음"></li>
+        <li><img src="1.jpg" title="말 농업기술길잡이 개정3판 가격 21000원 기타:고양이에 대한 다양한 사육방법을 알수잇음"></li>
         
-        <li><img src="w3c jpg 1.png" title="웹표준 교과서 XHTML과 CSS로 하는 '바른' 웹디자인 가격 33000"></li>
+        <li><img src="2.jpg" title="고양이 표준 교과서 XHTML과 CSS로 하는 '바른' 웹디자인 가격 33000"></li>
     </ul>
 </body>
 </html>
