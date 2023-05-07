@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<!--hello.html
+간단한 인사말을 화면에 표시하는 HTML/자바스크립트 기본 예제
+-->
+<html>
+<head>
+     <title>Welcome to the JavaScript</title>
+</head>
+<body>
+    <script type="text/JavaScript">
+        document.write("안녕하세요 저는 채정이에요 만나서 반가워요");
+    </script>
+</body>
+</html>
