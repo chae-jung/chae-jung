@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <script type="text/javascript">
+    var today = new Date();
+    var y = today.getFullYear();
+    var m = today.getMonth() + 1;
+    var d = today.getDate();
+
+    document.write("오늘 날짜: "+ y + "년 " + m + "월 " + d + "일 <br/>");
+
+    </script>
