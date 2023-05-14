@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <script type="text/javascript">
+    var answer = prompt("");
+    document.write("");
+    function show_alert() {alert("외출할 시간입니다");}
+
+
+    setTimeout(show_alert, 100000)
+
+
+    </script>
