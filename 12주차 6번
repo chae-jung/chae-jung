@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <p id="txt"></p>
+    <button id="btn" style="top: 49%; left: 49%; position: absolute; font-size: 40px;"> 버튼 </button>
+
+    <script src="script/25.js" type="text/javascript"> 
+    </script>
+</body>
+</html>
+<script text="text/javascript">
+document.getElementById("btn").onmouseover = ev_mouseover;
+document.getElementById("btn").onmouseout = ev_mouseout;
+document.getElementById("btn").onclick = ev_click;
+document.getElementById("btn").ondblclick = ev_dbclick;
+
+function ev_mouseover(){
+    document.getElementById("txt").innerText = "현재 상태: mouseover";
+}
+
+function ev_mouseout(){
+    document.getElementById("txt").innerText = "현재 상태: mouseout";
+}
+
+function ev_dbclick(){
+    document.getElementById("txt").innerText = "현재 상태: dbclick";
+}
+
+function ev_click(){
+    document.getElementById("txt").innerText = "현재 상태: click";
+}
+</script>
